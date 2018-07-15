@@ -1,0 +1,24 @@
+Introduction
+
+NRS-585 is a low cost, high performance servo motor. It can provide 4kg-cm torque. This servo motor is suitable for robotics and RC hobby applications.
+
+Servo motor has built in motor, gearbox, position feedback mechanism and motor controller. It can be controlled to move to any position just by using simple pulse controller. This motor has three wire interface for control and power supply. All the robots from NEX Robotics support this servo motor.
+
+Specifications
+
+Dimension: 40mm x 20mm x38mm
+Torque: 4kg-cm at 6V
+Stall current: 900mA
+Idle current: 5mA
+Operating voltage: 4.8V to 6V
+Motor weight: 50gms
+Operating speed: 0.15sec/60 degree
+Temperature range: -20°C to 55°C
+0.6 ms for 0 degree Rotation
+2.2 ms for 180 degree Rotation
+
+Motor Pinout
+
+Brown cable ---- Gnd
+Red cable ---- 5V Supply Voltage
+Orange cable ---- PWM Signal
